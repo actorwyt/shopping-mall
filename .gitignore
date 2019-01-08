@@ -1,0 +1,15 @@
+*.project
+*.classpath
+*.settings
+*target
+*DS_Store
+logs/
+log/
+*.class
+.idea
+*/classes/*
+*.log
+*.iml
+*/target/*
+*.bat
+dependency-reduced-pom.xml
